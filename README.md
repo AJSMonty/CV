@@ -1,5 +1,5 @@
 ## AJ Montgomery
-[Email](mailto:hello.aj.monty@gmail.com) | [LinkedIn](http:/www.linkedin.com/in/aj-montgomery
+[Email](mailto:aj.monty@gmail.com) | [LinkedIn](http:/www.linkedin.com/in/aj-montgomery
 )
 
 I have recently graduated from Makers Academy and now looking to start a new career in Software Development, having worked in the Music and Events Industry for over 10 years.
