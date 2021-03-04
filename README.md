@@ -41,4 +41,4 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 ## Others
 - Hobbies: Music, Film, Sports
-- Interests: Sustainability, Psychology, Art, Travel
+- Interests: Psychology, Art, Travel, Sustainability
