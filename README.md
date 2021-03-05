@@ -44,11 +44,11 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
-| **Recipy** | An app that lets you choose a recipe, with music to match cuisine [Recipy](https://github.com/AJSMonty/Recipy) | Javascript, React, MongoDB, Express, Node, Redux |
-| **Acebook** | A social media platform where users can post messages (https://github.com/sujee09/acebook-akers-cademy) | Javascript, Ruby on Rails, React, PostgreSQL |
-| **MakersBnB** | An AirBnB clone where users can list and rent rooms (https://github.com/chrismabdo/makersbnb) | Ruby, Sinatra, RSpec, TDD |
-| **Notes App** | Front-end app where users can make notes (http://sheep-notes.surge.sh/) | JS |
-| **Chitter** | Twitter clone where users can post messages (https://github.com/AJSMonty/chitter-challenge) | Ruby, RSpec, API, TDD |
+| **Recipy** | An app that lets you choose a recipe, with music to match cuisine [View here](https://github.com/AJSMonty/Recipy) | Javascript, React, MongoDB, Express, Node, Redux |
+| **Acebook** | A social media platform where users can post messages [View here](https://github.com/sujee09/acebook-akers-cademy) | Javascript, Ruby on Rails, React, PostgreSQL |
+| **MakersBnB** | An AirBnB clone where users can list and rent rooms [View here](https://github.com/chrismabdo/makersbnb) | Ruby, Sinatra, RSpec, TDD |
+| **Notes App** | Front-end app where users can make notes [View here](http://sheep-notes.surge.sh/) | JS |
+| **Chitter** | Twitter clone where users can post messages [View here](https://github.com/AJSMonty/chitter-challenge) | Ruby, RSpec, API, TDD |
 
 
 ## Skills
