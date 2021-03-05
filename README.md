@@ -58,7 +58,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 - **Others**: Scrum, Test Driven Development
 
 #### Other Software
-- **Adobe**: Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom
+- **Adobe**: Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom, Dimension
 - **Audio**: Logic Pro, Pro Tools, Audition, Traktor
 - **Microsoft**: Excel, Word, OneNote, Teams
 
@@ -88,8 +88,8 @@ I have recently graduated from Makers Academy and now looking to start a new car
 - Studied Drums to Grade 8
 - Advanced & Rescue Scuba Diving (PADI)
 - Built a house during Lockdown
-- 
+
 
 ## Others
-- Hobbies: Music, Film, Sports, Scuba Diving
+- Hobbies: Music, Film, Sports, Scuba Diving, Gardening
 - Interests: Psychology, Art, Travel, Sustainability, Innovation
