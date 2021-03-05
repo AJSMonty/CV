@@ -31,6 +31,8 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 
 ## Skills
+
+### Coding
 - **Languages**: Javascript, Ruby, SQL, HTML/CSS
 - **Library**: React, Redux, AWS, JQuery
 - **Tools**: Git, Sinatra, RSpec, Capybara, MongoDB, Node, Express
