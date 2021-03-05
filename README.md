@@ -90,7 +90,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 - Studied Drums to Grade 8
 - Advanced & Rescue Scuba Diving (PADI)
 - I'm really good at flying drones
-- Built a house during Lockdown
+- Learnt how to, and helped build and renovate an eco-house during lockdown
 
 
 ## Others
