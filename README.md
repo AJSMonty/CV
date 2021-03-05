@@ -13,7 +13,12 @@ I have recently graduated from Makers Academy and now looking to start a new car
 - JavaScript, Ruby, Rails, Node, Express, React
 - RSpec, Jasmine, Cypress
 
-#### Point Blank Music College (2009 - 2011) - *BTec in Music Production and Sound Engineering*
+#### Point Blank Music College (2009 - 2011) 
+- *BTec in Music Production and Sound Engineering*
+
+#### Radley College (2003 - 2008)
+- *A Levels, Electronics (A), Design Technology (B), Chemistry (D), Biology AS (D)
+- *GCSEs, 8 As, 2 Bs*
 
 ## Work Experience
 
@@ -58,5 +63,5 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 
 ## Others
-- Hobbies: Music, Film, Sports
+- Hobbies: Music, Film, Sports, Scuba Diving
 - Interests: Psychology, Art, Travel, Sustainability
