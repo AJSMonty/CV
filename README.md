@@ -22,6 +22,21 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 ## Work Experience
 
+#### Music Tutor @ Radley College (2010 - 2020)
+- Taught and coached 13-18 year olds how to DJ and produce music to a proffesional level
+
+#### Founder/CEO @ Axil Music (2007 - Present)
+- Set up my own company when I was 17
+- Learnt and implemented from a young age how all aspects of a company functions (Accounting, Marketing, etc)
+- Consistant turnover growth for over 12 years
+
+#### Event Organiser @ Sharky & George (2009 - 2020)
+- Organised and run over 1000 children and adult's parties. Managing large groups of children and directing a team of staff members
+
+#### Music Producer & DJ (2007 - Present)
+- Worked alongside artists such as Sigala, Craig David, Omi and Dario G
+- Written music for brands such as Philips and the BBC
+- DJed all over the world in nightclubs, and also at events for L'Oreal, The Royal Family, Military Balls, and many more
 
 ## Projects
 
@@ -32,7 +47,6 @@ I have recently graduated from Makers Academy and now looking to start a new car
 | **MakersBnB** | An AirBnB clone where users can list and rent rooms (https://github.com/chrismabdo/makersbnb) | Ruby, Sinatra, RSpec, TDD |
 | **Notes App** | Front-end app where users can make notes (http://sheep-notes.surge.sh/) | JS |
 | **Chitter** | Twitter clone where users can post messages (https://github.com/AJSMonty/chitter-challenge) | Ruby, RSpec, API, TDD |
-
 
 
 ## Skills
@@ -64,4 +78,4 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 ## Others
 - Hobbies: Music, Film, Sports, Scuba Diving
-- Interests: Psychology, Art, Travel, Sustainability
+- Interests: Psychology, Art, Travel, Sustainability, Innovation
