@@ -1,4 +1,4 @@
-## AJ Montgomery
+# AJ Montgomery
 [Email](mailto:aj.monty@gmail.com) | [LinkedIn](http:/www.linkedin.com/in/aj-montgomery
 )
 
