@@ -34,7 +34,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 - Organised and run over 1000 children and adult's parties. Managing large groups of children and directing a team of staff members
 
 #### Music Producer & DJ (2007 - Present)
-- Worked alongside artists such as Sigala, Craig David, Omi and Dario G
+- Worked alongside artists such as Sigala, Craig David, Rhys Lewis, Omi and Dario G
 - Written music for brands such as Philips and the BBC
 - DJed all over the world in nightclubs, and also at events for L'Oreal, The Royal Family, Military Balls, and many more
 
@@ -84,8 +84,11 @@ I have recently graduated from Makers Academy and now looking to start a new car
   - I pride myself on never having missed a day of work, and always showing up on time. Being late for anything freaks me out
 
 
-## Qualifications
-
+## Personal Achievements
+- Studied Drums to Grade 8
+- Advanced & Rescue Scuba Diving (PADI)
+- Built a house during Lockdown
+- 
 
 ## Others
 - Hobbies: Music, Film, Sports, Scuba Diving
