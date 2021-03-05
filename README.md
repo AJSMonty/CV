@@ -23,7 +23,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 ## Work Experience
 
 #### Music Tutor @ Radley College (2010 - 2020)
-- Taught and coached 13-18 year olds how to DJ and produce music to a proffesional level
+- Taught and coached 13-18 year olds how to DJ and produce music to a professional level
 
 #### Founder/CEO @ Axil Music (2007 - Present)
 - Set up my own company when I was 17
