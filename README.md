@@ -64,18 +64,25 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 #### Soft Skills
 - **Creativity**:
+  - Written and produced over 300 songs
+  - Produced, Directed & Edited over 20 short films & music videos
+  - Designed album artwork for over 30 releases
 - **Flexibility**:
- - When working with children, there is not much room to be inflexible. Plans change and moods change, and I have learnt to 
+  - When working with children, there is not much room to be inflexible. Plans change and moods change, and I have learnt to 
 - **Work Ethic**:
-  - "If a job is worth doing, it's worth doing well" has always been my moto.
+  - "If a job is worth doing, it's worth doing well" has always been my moto
 - **Reading Other People**:
-  -
+  - I like to think that DJing from a young age has instilled a good gauge on reading other people's emotions and intentions
 - **Public Speaking**:
+  - Always happy to stand up and present
 - **Talent Management**:
+  - Worked alongside popstars and record labels to get the best out of artists in the studio
+  - Popstars are notorious for their egos as well as their talent, so managing ego alongside creativity has been a really fun challenge
 - **Communication**:
+  - When working with others in a collaborative environment, I have learnt to communicate creative ideas as well as task driven ideas
 - **Punctuality**:
-  - I pride myself on never having missed a day of work, and always showing up on time. Being late for anything freaks me out.
-- **Adaptability**:
+  - I pride myself on never having missed a day of work, and always showing up on time. Being late for anything freaks me out
+
 
 ## Qualifications
 
