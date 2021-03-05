@@ -91,5 +91,5 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 
 ## Others
-- Hobbies: Music, Film, Sports, Scuba Diving, Gardening
-- Interests: Psychology, Art, Travel, Sustainability, Innovation
+- **Hobbies**: Music, Film, Sports, Scuba Diving, Gardening
+- **Interests**: Psychology, Art, Travel, Sustainability, Innovation
