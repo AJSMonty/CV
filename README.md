@@ -32,11 +32,27 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 ## Skills
 
-### Coding
+#### Coding
 - **Languages**: Javascript, Ruby, SQL, HTML/CSS
 - **Library**: React, Redux, AWS, JQuery
 - **Tools**: Git, Sinatra, RSpec, Capybara, MongoDB, Node, Express
 - **Others**: Scrum, Test Driven Development
+
+#### Other Software
+- **Adobe**: Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom
+- **Audio**: Logic Pro, Pro Tools, Audition, Traktor
+- **Microsoft**: Excell, Word, OneNote, Teams
+
+#### Soft Skills
+- **Creativity**:
+- **Flexibility**:
+- **Work Ethic**:
+- **Reading Other People**:
+- **Public Speaking**:
+- **Talent Management**:
+- **Communication**:
+- **Punctuality**:
+- **Adaptability**:
 
 ## Qualifications
 
