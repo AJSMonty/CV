@@ -17,7 +17,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 - *BTec in Music Production and Sound Engineering*
 
 #### Radley College (2003 - 2008)
-- *A Levels, Electronics (A), Design Technology (B), Chemistry (D), Biology AS (D)*
+- *A Levels, Electronics, Design Technology, Chemistry, Biology AS*
 - *GCSEs, 8 As, 2 Bs*
 
 ## Work Experience
