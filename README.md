@@ -31,7 +31,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 - Consistant turnover growth for over 12 years
 
 #### Event Organiser @ Sharky & George (2009 - 2020)
-- Organised and run over 1000 children and adult's parties. Managing large groups of children and directing a team of staff members
+- Organised and run over 1000 children and adult's parties. Managing large groups of people and directing a team of staff members
 
 #### Music Producer & DJ (2007 - Present)
 - Worked alongside artists such as Sigala, Craig David, Rhys Lewis, Omi and Dario G
@@ -68,13 +68,13 @@ I have recently graduated from Makers Academy and now looking to start a new car
   - Produced, Directed & Edited over 20 short films & music videos
   - Designed album artwork for over 30 releases
 - **Flexibility**:
-  - When working with children, there is not much room to be inflexible. Plans change and moods change, and I have learnt to 
+  - When working with children, there is not much room to be inflexible. Plans change and moods change, and I have learnt to adapt with those situations
 - **Work Ethic**:
   - "If a job is worth doing, it's worth doing well" has always been my moto
 - **Reading Other People**:
   - I like to think that DJing from a young age has instilled a good gauge on reading other people's emotions and intentions
 - **Public Speaking**:
-  - Always happy to stand up and present
+  - I'm always happy to stand up and present
 - **Talent Management**:
   - Worked alongside popstars and record labels to get the best out of artists in the studio
   - Popstars are notorious for their egos as well as their talent, so managing ego alongside creativity has been a really fun challenge
