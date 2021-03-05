@@ -22,21 +22,23 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 ## Work Experience
 
-#### Music Tutor @ Radley College (2010 - 2020)
-- Taught and coached 13-18 year olds how to DJ and produce music to a professional level
-
 #### Founder/CEO @ Axil Music (2007 - Present)
 - Set up my own company when I was 17
 - Learnt and implemented from a young age how all aspects of a company functions (Accounting, Marketing, etc)
-- Consistant turnover growth for over 12 years
-
-#### Event Organiser @ Sharky & George (2009 - 2020)
-- Organised and run over 1000 children and adult's parties. Managing large groups of people and directing a team of staff members
+- Consistent turnover growth for over 12 years
 
 #### Music Producer & DJ (2007 - Present)
 - Worked alongside artists such as Sigala, Craig David, Rhys Lewis, Omi and Dario G
 - Written music for brands such as Philips and the BBC
 - DJed all over the world in nightclubs, and also at events for L'Oreal, The Royal Family, Military Balls, and many more
+
+#### Music Tutor @ Radley College (2010 - 2020)
+- Taught and coached 13-18 year olds how to DJ and produce music to a professional level
+
+#### Event Organiser @ Sharky & George (2009 - 2020)
+- Organised and run over 1000 children and adult's parties. Managing large groups of people and directing a team of staff members
+
+
 
 ## Projects
 
