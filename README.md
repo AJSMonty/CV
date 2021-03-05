@@ -60,7 +60,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 #### Other Software
 - **Adobe**: Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom
 - **Audio**: Logic Pro, Pro Tools, Audition, Traktor
-- **Microsoft**: Excell, Word, OneNote, Teams
+- **Microsoft**: Excel, Word, OneNote, Teams
 
 #### Soft Skills
 - **Creativity**:
