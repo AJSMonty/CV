@@ -86,7 +86,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
   - I pride myself on never having missed a day of work, and always showing up on time. Being late for anything freaks me out
 
 
-## Personal Achievements
+## Other Personal Achievements
 - Studied Drums to Grade 8
 - Advanced & Rescue Scuba Diving (PADI)
 - I'm really good at flying drones
