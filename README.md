@@ -65,12 +65,16 @@ I have recently graduated from Makers Academy and now looking to start a new car
 #### Soft Skills
 - **Creativity**:
 - **Flexibility**:
+ - When working with children, there is not much room to be inflexible. Plans change and moods change, and I have learnt to 
 - **Work Ethic**:
+  - "If a job is worth doing, it's worth doing well" has always been my moto.
 - **Reading Other People**:
+  -
 - **Public Speaking**:
 - **Talent Management**:
 - **Communication**:
 - **Punctuality**:
+  - I pride myself on never having missed a day of work, and always showing up on time. Being late for anything freaks me out.
 - **Adaptability**:
 
 ## Qualifications
