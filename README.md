@@ -44,7 +44,7 @@ I have recently graduated from Makers Academy and now looking to start a new car
 
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
-| **Recipy** | An app that lets you choose a recipe, with music to match cuisine (https://github.com/AJSMonty/Recipy) | Javascript, React, MongoDB, Express, Node, Redux |
+| **Recipy** | An app that lets you choose a recipe, with music to match cuisine [Recipy](https://github.com/AJSMonty/Recipy) | Javascript, React, MongoDB, Express, Node, Redux |
 | **Acebook** | A social media platform where users can post messages (https://github.com/sujee09/acebook-akers-cademy) | Javascript, Ruby on Rails, React, PostgreSQL |
 | **MakersBnB** | An AirBnB clone where users can list and rent rooms (https://github.com/chrismabdo/makersbnb) | Ruby, Sinatra, RSpec, TDD |
 | **Notes App** | Front-end app where users can make notes (http://sheep-notes.surge.sh/) | JS |
