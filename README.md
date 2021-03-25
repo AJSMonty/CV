@@ -35,60 +35,36 @@ I am an enthusiastic, intelligent, hard-working and thoughtful problem-solver. M
 ## Education
 
 #### Makers Academy (November 2020 - February 2021)
+-	Using TDD, I learnt how to develop both back-end servers, and front-end clients using a variety of languages
+-	In order to send data between the server and the client, I learnt to implement RESTful APIs
+-	When working in teams, we applied agile and XP methodology to plan our project sprints.
+-	I can confidently say that I can debug anything using a variety of methods.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- JavaScript, Ruby, Rails, Node, Express, React
-- RSpec, Jasmine, Cypress
-
-#### Point Blank Music College (2009 - 2011) 
-- *BTec in Music Production and Sound Engineering*
+#### Point Blank Music College (2009 - 2011)
+-	BA(Hons) in Music Production and Sound Engineering
 
 #### Radley College (2003 - 2008)
-- *A Levels, Electronics, Design Technology, Chemistry, Biology AS*
-- *GCSEs, 8 As, 2 Bs*
-
+-	A Levels, Electronics, Design Technology, Chemistry, Biology AS
 
 ## Skills
 
 #### Coding
-- **Languages**: Javascript, Ruby, SQL, HTML/CSS
-- **Library**: React, Redux, AWS, JQuery
-- **Tools**: Git, Sinatra, RSpec, Capybara, MongoDB, Node, Express
-- **Others**: Scrum, Test Driven Development
+•	Languages: Javascript, Ruby, SQL, HTML/CSS
+•	Library: React, Redux, AWS, JQuery
+•	Tools: Git, Sinatra, RSpec, Jasmine, Capybara, Postgres, MongoDB, Rails, Node, Express
+•	Others: Test Driven Development, HTTP responses
 
 #### Other Software
-- **Adobe**: Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom, Dimension
-- **Audio**: Logic Pro, Pro Tools, Audition, Traktor
-- **Microsoft**: Excel, Word, OneNote, Teams
+•	Adobe: Xd, Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom, Dimension
+•	Audio: Logic Pro, Pro Tools, Audition, Traktor
+•	Microsoft: Excel, Word, OneNote, Teams
 
-#### Soft Skills
-- **Creativity**:
-  - Written and produced over 300 songs
-  - Produced, Directed & Edited over 20 short films & music videos
-  - Designed album artwork for over 30 releases
-- **Flexibility**:
-  - When working with children, there is not much room to be inflexible. Plans change and moods change, and I have learnt to adapt with those situations
-- **Work Ethic**:
-  - "If a job is worth doing, it's worth doing well" has always been my moto
-- **Reading Other People**:
-  - I like to think that DJing from a young age has instilled a good gauge on reading other people's emotions and intentions
-- **Public Speaking**:
-  - I'm always happy to stand up and present
-- **Talent Management**:
-  - Worked alongside popstars and record labels to get the best out of artists in the studio
-  - Popstars are notorious for their egos as well as their talent, so managing ego alongside creativity has been a really fun challenge
-- **Communication**:
-  - When working with others in a collaborative environment, I have learnt to communicate creative ideas as well as task driven ideas
-- **Punctuality**:
-  - I pride myself on never having missed a day of work, and always showing up on time. Being late for anything freaks me out
-
-
-## Other Personal Achievements
-- Studied Drums to Grade 8
-- Advanced & Rescue Scuba Diving (PADI)
-- I'm really good at flying drones
-- Learnt how to, and helped build and renovate an eco-house during lockdown
+#### Other Personal Achievements
+•	Studied Drums to Grade 8
+•	Advanced & Rescue Scuba Diving (PADI)
+•	I’m really good at flying drones
+•	Learnt how to, and helped build and renovate an eco-house during lockdown
+•	I pride myself on never having missed a day of work
 
 
 ## Others
