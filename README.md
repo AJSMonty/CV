@@ -49,22 +49,22 @@ I am an enthusiastic, intelligent, hard-working and thoughtful problem-solver. M
 ## Skills
 
 #### Coding
-•	Languages: Javascript, Ruby, SQL, HTML/CSS
-•	Library: React, Redux, AWS, JQuery
-•	Tools: Git, Sinatra, RSpec, Jasmine, Capybara, Postgres, MongoDB, Rails, Node, Express
-•	Others: Test Driven Development, HTTP responses
+-	Languages: Javascript, Ruby, SQL, HTML/CSS
+-	Library: React, Redux, AWS, JQuery
+-	Tools: Git, Sinatra, RSpec, Jasmine, Capybara, Postgres, MongoDB, Rails, Node, Express
+-	Others: Test Driven Development, HTTP responses
 
 #### Other Software
-•	Adobe: Xd, Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom, Dimension
-•	Audio: Logic Pro, Pro Tools, Audition, Traktor
-•	Microsoft: Excel, Word, OneNote, Teams
+-	Adobe: Xd, Illustrator, Premiere Pro, After Effects, Photoshop, InDesign, Lightroom, Dimension
+-	Audio: Logic Pro, Pro Tools, Audition, Traktor
+-	Microsoft: Excel, Word, OneNote, Teams
 
 #### Other Personal Achievements
-•	Studied Drums to Grade 8
-•	Advanced & Rescue Scuba Diving (PADI)
-•	I’m really good at flying drones
-•	Learnt how to, and helped build and renovate an eco-house during lockdown
-•	I pride myself on never having missed a day of work
+-	Studied Drums to Grade 8
+-	Advanced & Rescue Scuba Diving (PADI)
+-	I’m really good at flying drones
+-	Learnt how to, and helped build and renovate an eco-house during lockdown
+-	I pride myself on never having missed a day of work
 
 
 ## Others
