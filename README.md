@@ -2,7 +2,8 @@
 [Email](mailto:aj.monty@gmail.com) | [LinkedIn](http:/www.linkedin.com/in/aj-montgomery
 )
 
-I have recently graduated from Makers Academy and now looking to start a new career in Software Development, having worked in the Music and Events Industry for over 10 years.
+I am an enthusiastic, intelligent, hard-working and thoughtful problem-solver. My experiences in the events industry have cultivated a ‘nothing is impossible’ mindset. I’ve always had a passion for tech, combined with an obsession for efficiency, which led me into software development. I have recently graduated from Makers Academy and now looking to start a new path developing world-changing applications.![image](https://user-images.githubusercontent.com/71641562/112489316-3d5b8f00-8d76-11eb-9b7f-13ba84606d16.png)
+
 
 ## Education
 
@@ -94,3 +95,4 @@ I have recently graduated from Makers Academy and now looking to start a new car
 ## Others
 - **Hobbies**: Music, Film, Sports, Scuba Diving, Gardening, Photography
 - **Interests**: Psychology, Art, Travel, Sustainability, Innovation
+
