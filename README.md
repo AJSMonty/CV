@@ -2,7 +2,34 @@
 [Email](mailto:aj.monty@gmail.com) | [LinkedIn](http:/www.linkedin.com/in/aj-montgomery
 )
 
-I am an enthusiastic, intelligent, hard-working and thoughtful problem-solver. My experiences in the events industry have cultivated a ‘nothing is impossible’ mindset. I’ve always had a passion for tech, combined with an obsession for efficiency, which led me into software development. I have recently graduated from Makers Academy and now looking to start a new path developing world-changing applications.![image](https://user-images.githubusercontent.com/71641562/112489316-3d5b8f00-8d76-11eb-9b7f-13ba84606d16.png)
+I am an enthusiastic, intelligent, hard-working and thoughtful problem-solver. My experiences in the events industry have cultivated a ‘nothing is impossible’ mindset. I’ve always had a passion for tech, combined with an obsession for efficiency, which led me into software development. I have recently graduated from Makers Academy and now looking to start a new path developing world-changing applications.
+
+
+## Projects
+
+| Name                          | Description                                           | Tech/tools        |
+| ------------------------------| ----------------------------------------------------- | ----------------- |
+| **Recipy** | An app that lets you choose a recipe, with music to match cuisine. [View here](https://github.com/AJSMonty/Recipy) | Javascript, React, MongoDB, Express, Node, Redux |
+| **Acebook** | A social media platform where users can post messages. [View here](https://github.com/sujee09/acebook-akers-cademy) | Javascript, Ruby on Rails, React, PostgreSQL |
+| **MakersBnB** | An AirBnB clone where users can list and rent rooms. [View here](https://github.com/chrismabdo/makersbnb) | Ruby, Sinatra, RSpec, TDD |
+| **Notes App** | Front-end app where users can make notes. [View here](http://sheep-notes.surge.sh/) | JS |
+| **Chitter** | Twitter clone where users can post messages. [View here](https://github.com/AJSMonty/chitter-challenge) | Ruby, RSpec, API, TDD |
+
+## Work Experience
+
+#### Music Producer & DJ @ Axil Music (2007 - Present)
+-	Set up my own company when I was 17, which required self-motivation and rapid learning
+-	Using forward-planning, I achieved consistent turnover growth for over 12 years
+-	Written and produced over 300 songs alongside artists such as Sigala, Craig David, Rhys Lewis, Omi and Dario G, which called for good communication of creative ideas in a collaborative environment.
+-	Written music for brands such as Philips and the BBC
+-	DJed all over the world in nightclubs, and also at events for L’Oreal, The Royal Family, Military Balls, Glastonbury and many more. This meant reading the room and mood to create the best experience for an audience.
+
+#### Music Tutor @ Radley College (2010 - 2020)
+-	Taught 13-18 year-olds how to DJ and produce music to a professional level, using creativity and emotional intelligence to enhance each pupil’s learning environment
+
+#### Event Organiser @ Sharky & George (2009 - 2020)
+-	Organised and run over 1000 children and adult’s parties. This required me to work with tons of clients, and be flexible to their demands, whilst managing large groups of people and directing a team of staff members.
+
 
 
 ## Education
@@ -20,34 +47,6 @@ I am an enthusiastic, intelligent, hard-working and thoughtful problem-solver. M
 #### Radley College (2003 - 2008)
 - *A Levels, Electronics, Design Technology, Chemistry, Biology AS*
 - *GCSEs, 8 As, 2 Bs*
-
-## Work Experience
-
-#### Music Producer & DJ @ Axil Music (2007 - Present)
-- Set up my own company when I was 17
-- Learnt and implemented from a young age how all aspects of a company functions (Accounting, Marketing, etc)
-- Consistent turnover growth for over 12 years
-- Worked alongside artists such as Sigala, Craig David, Rhys Lewis, Omi and Dario G
-- Written music for brands such as Philips and the BBC
-- DJed all over the world in nightclubs, and also at events for L'Oreal, The Royal Family, Military Balls, Glastonbury and many more
-
-#### Music Tutor @ Radley College (2010 - 2020)
-- Taught and coached 13-18 year olds how to DJ and produce music to a professional level
-
-#### Event Organiser @ Sharky & George (2009 - 2020)
-- Organised and run over 1000 children and adult's parties. Managing large groups of people and directing a team of staff members
-
-
-
-## Projects
-
-| Name                          | Description                                           | Tech/tools        |
-| ------------------------------| ----------------------------------------------------- | ----------------- |
-| **Recipy** | An app that lets you choose a recipe, with music to match cuisine. [View here](https://github.com/AJSMonty/Recipy) | Javascript, React, MongoDB, Express, Node, Redux |
-| **Acebook** | A social media platform where users can post messages. [View here](https://github.com/sujee09/acebook-akers-cademy) | Javascript, Ruby on Rails, React, PostgreSQL |
-| **MakersBnB** | An AirBnB clone where users can list and rent rooms. [View here](https://github.com/chrismabdo/makersbnb) | Ruby, Sinatra, RSpec, TDD |
-| **Notes App** | Front-end app where users can make notes. [View here](http://sheep-notes.surge.sh/) | JS |
-| **Chitter** | Twitter clone where users can post messages. [View here](https://github.com/AJSMonty/chitter-challenge) | Ruby, RSpec, API, TDD |
 
 
 ## Skills
